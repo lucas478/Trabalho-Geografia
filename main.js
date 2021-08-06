@@ -1,0 +1,1 @@
+window.alert('Este site foi feito apenas para fins educacionais!')

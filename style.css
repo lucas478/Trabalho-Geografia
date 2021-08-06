@@ -1,0 +1,42 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+    font: 15px;
+    color: black;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    background-color: rgba(98, 173, 98, 0.452);
+    border-radius: 15px;
+    width: 50rem;
+    margin-left: 30%;
+}
+
+h2{
+    margin-left: 20rem;
+}
+
+main .significado{
+    color: rgba(241, 67, 67, 0.842);
+}
+
+main div{
+    text-align: left;
+}
+
+footer{
+    background-color: rgba(47, 138, 67, 0.87);
+    height: 89px;
+}
+
+footer h3{
+    text-align: right;
+}
+
+footer ul{
+    list-style: none;
+    text-align: center;
+}
